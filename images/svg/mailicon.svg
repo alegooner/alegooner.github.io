@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Mail-Icon">
+        <path d="M13.295,4.91C13.442,4.91 13.583,4.941 13.713,5L9.205,10.26L4.696,5C4.826,4.94 4.968,4.909 5.114,4.909L13.295,4.91ZM4.091,12.068L4.091,5.932C4.091,5.911 4.092,5.889 4.093,5.868L7.092,9.367L4.126,12.333C4.103,12.247 4.091,12.159 4.091,12.068L4.091,12.068ZM13.295,13.091L5.114,13.091C5.024,13.091 4.935,13.079 4.85,13.056L7.76,10.146L9.205,11.831L10.65,10.146L13.56,13.056C13.474,13.079 13.386,13.091 13.295,13.091ZM14.318,12.068C14.318,12.159 14.306,12.247 14.283,12.333L11.317,9.367L14.315,5.868C14.317,5.889 14.318,5.911 14.318,5.932L14.318,12.068L14.318,12.068Z" style="fill:white;"/>
+    </g>
+</svg>
